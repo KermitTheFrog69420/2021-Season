@@ -1,1 +1,1 @@
-# 2021-I-can-edit
+This file is the 2021 season metadata for CFC IOS.

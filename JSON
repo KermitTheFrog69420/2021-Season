@@ -2198,7 +2198,7 @@
 						"name": "Todd Orlando",
 						"contractYear": "0"
 					},
-					"rival": "UCLA",
+					"rival": "ND",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2633,7 +2633,7 @@
 				},
 				{
 					"abbreviation": "ND",
-					"prestige": "25",
+					"prestige": "90",
 					"hexColor": "#C99700",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2663,7 +2663,7 @@
 						"name": "Marcus Freeman",
 						"contractYear": "0"
 					},
-					"rival": "CIN",
+					"rival": "USC",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",

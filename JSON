@@ -5301,7 +5301,7 @@
 						"name": "Chad Staggs",
 						"contractYear": "0"
 					},
-					"rival": "GST",
+					"rival": "SCF",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -5352,7 +5352,7 @@
 						"name": "Nick Fuqua",
 						"contractYear": "0"
 					},
-					"rival": "CCU",
+					"rival": "APST",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -5372,21 +5372,21 @@
 					"state": "Georgia"
 				},
 				{
-					"abbreviation": "GSU",
-					"prestige": "49",
+					"abbreviation": "SCF",
+					"prestige": "0",
 					"hexColor": "#011E41",
 					"offCoordinator": {
-						"contractLength": "3",
+						"contractLength": "100",
 						"startYear": "2021",
-						"age": "41",
+						"age": "32",
 						"cumulativePrestige": "0",
-						"homeState": "Maine",
-						"ratPot": "80",
+						"homeState": "South Carolina",
+						"ratPot": "95",
 						"hometown": "Oakland",
-						"ratTalent": "89",
+						"ratTalent": "65",
 						"baselinePrestige": "65",
 						"coachingAbility": "75",
-						"name": "Doug Ruse",
+						"name": "Dustin Drew",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
@@ -5403,24 +5403,24 @@
 						"name": "Scot Sloan",
 						"contractYear": "0"
 					},
-					"rival": "APST",
+					"rival": "CCU",
 					"headCoach": {
-						"contractLength": "6",
+						"contractLength": "100",
 						"startYear": "2021",
-						"age": "57",
-						"ratOff": "73",
+						"age": "32",
+						"ratOff": "95",
 						"cumulativePrestige": "0",
-						"ratDef": "77",
-						"homeState": "Louisiana",
-						"ratPot": "55",
+						"ratDef": "85",
+						"homeState": "South Carolina",
+						"ratPot": "95",
 						"hometown": "Vacherie",
-						"ratTalent": "85",
+						"ratTalent": "95",
 						"baselinePrestige": "65",
-						"name": "Chad Lunsford",
+						"name": "Caleb Pertko",
 						"contractYear": "0"
 					},
-					"name": "Georgia Southern Eagles",
-					"state": "Georgia"
+					"name": "South Carolina Frogs",
+					"state": "South Carolina"
 				},
 				{
 					"abbreviation": "TROY",
